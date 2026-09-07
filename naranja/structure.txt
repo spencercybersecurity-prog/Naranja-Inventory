@@ -1,0 +1,8 @@
+Pages
+-home (landing)
+-about
+-products
+-cart
+-checkout
+-login
+-admin
